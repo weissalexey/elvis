@@ -1,5 +1,5 @@
-PatchPDF ="c:\Users\aw\Desktop\winspied\ELVIS\"
-FolderTo ="c:\Users\aw\Desktop\winspied\ELVIS_BK\"
+PatchPDF ="\Desktop\winspied\ELVIS\"
+FolderTo ="\Desktop\winspied\ELVIS_BK\"
 'PatchPDF ="E:\Schnittstellen\Elvis\OUT\POD\"
 sql = "select * from V_POD_ELVIS_941"
 WriteLog "Start"
